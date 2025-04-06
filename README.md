@@ -22,10 +22,8 @@ Here are some ideas to get you started:
   </div>
 <br>
 
-## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aquilinerose&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+
 ## My top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquilinerose)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=aquilinerose&color=dc143c)
+
